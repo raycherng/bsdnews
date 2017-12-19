@@ -4,12 +4,12 @@
 
 ---
 
-##BSD News 
+## BSD News 
 - 2018-1-1
 
 ---
 
-## [資原列表](resource)
+## [相關資源](resource)
 - [FreeBSD 使用手冊][handbook]
 - [FreeBSD FAQ][faq]
 - [FreeBSD Taiwan][freebsd-tw]
